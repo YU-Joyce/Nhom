@@ -1,0 +1,52 @@
+﻿@model IEnumerable<CuaHangTheThao.Models.DanhMuc>
+
+@{
+    ViewData["Title"] = "Quản Lý Danh Mục";
+}
+
+<h1>Danh Sách Danh Mục</h1>
+
+<form method="get" asp-action="Index">
+    <input type="text" name="searchString" value="@ViewData["CurrentFilter"]" placeholder="Tìm kiếm người dùng" />
+    <button type="submit">Tìm kiếm</button>
+</form>
+
+<p>
+    <a asp-action="Create">Thêm danh mục</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TenDanhMuc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MoTa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TrangThai)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenDanhMuc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MoTa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TrangThai)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Sửa</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Xem</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Xóa</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

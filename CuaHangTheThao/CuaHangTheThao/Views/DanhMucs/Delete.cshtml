@@ -1,0 +1,39 @@
+﻿@model CuaHangTheThao.Models.DanhMuc
+
+@{
+    ViewData["Title"] = "Xóa";
+}
+
+<h1>Xóa danh mục</h1>
+
+<h3>Bạn có chắc muốn xóa danh mục này không?</h3>
+<div>
+
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TenDanhMuc)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TenDanhMuc)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MoTa)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MoTa)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TrangThai)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TrangThai)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Quay lại</a>
+    </form>
+</div>

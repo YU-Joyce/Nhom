@@ -1,0 +1,53 @@
+﻿@model CuaHangTheThao.Models.SanPham
+
+@{
+    ViewData["Title"] = "Xem chi tiết";
+}
+
+<h1>Xem chi tiết</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TenSanPham)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TenSanPham)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MoTa)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MoTa)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DanhMuc)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DanhMuc.TenDanhMuc)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Gia)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Gia)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SoLuong)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SoLuong)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.HinhAnh)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.HinhAnh)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Sửa</a> |
+    <a asp-action="Index">Quay lại</a>
+</div>

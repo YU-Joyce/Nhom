@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TH Net\\CuaHangTheThao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\controllers\\nguoidungscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\controllers\\nguoidungscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\views\\nguoidungs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\views\\nguoidungs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\views\\nguoidungs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\views\\nguoidungs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\controllers\\danhmucscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\controllers\\danhmucscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\views\\danhmucs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\views\\danhmucs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\views\\nguoidungs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\views\\nguoidungs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\views\\sanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\views\\sanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\views\\danhmucs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\views\\danhmucs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\views\\danhmucs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\views\\danhmucs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\views\\sanphams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\views\\sanphams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\views\\sanphams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\views\\sanphams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\views\\sanphams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\views\\sanphams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\models\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\models\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\views\\danhmucs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\views\\danhmucs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\views\\danhmucs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\views\\danhmucs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\migrations\\20241112112831_nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\migrations\\20241112112831_nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|e:\\th net\\cuahangthethao\\cuahangthethao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8788DF4D-A01B-4A96-9921-7573B1AFCF23}|CuaHangTheThao\\CuaHangTheThao.csproj|solutionrelative:cuahangthethao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\NguoiDungs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\Views\\NguoiDungs\\Edit.cshtml",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\NguoiDungs\\Edit.cshtml",
+              "RelativeToolTip": "CuaHangTheThao\\Views\\NguoiDungs\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T16:53:47.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\NguoiDungs\\Create.cshtml",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\Views\\NguoiDungs\\Create.cshtml",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\NguoiDungs\\Create.cshtml",
+              "RelativeToolTip": "CuaHangTheThao\\Views\\NguoiDungs\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T16:48:40.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SanPhamsController.cs",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Controllers\\SanPhamsController.cs",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\Controllers\\SanPhamsController.cs",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Controllers\\SanPhamsController.cs",
+              "RelativeToolTip": "CuaHangTheThao\\Controllers\\SanPhamsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:51:14.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NguoiDungsController.cs",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Controllers\\NguoiDungsController.cs",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\Controllers\\NguoiDungsController.cs",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Controllers\\NguoiDungsController.cs",
+              "RelativeToolTip": "CuaHangTheThao\\Controllers\\NguoiDungsController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:27:35.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\DanhMucs\\Details.cshtml",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\Views\\DanhMucs\\Details.cshtml",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\DanhMucs\\Details.cshtml",
+              "RelativeToolTip": "CuaHangTheThao\\Views\\DanhMucs\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T16:12:42.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\DanhMucs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\Views\\DanhMucs\\Delete.cshtml",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\DanhMucs\\Delete.cshtml",
+              "RelativeToolTip": "CuaHangTheThao\\Views\\DanhMucs\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T16:11:55.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DanhMucsController.cs",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Controllers\\DanhMucsController.cs",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\Controllers\\DanhMucsController.cs",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Controllers\\DanhMucsController.cs",
+              "RelativeToolTip": "CuaHangTheThao\\Controllers\\DanhMucsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:24:17.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\SanPhams\\Index.cshtml",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\Views\\SanPhams\\Index.cshtml",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\SanPhams\\Index.cshtml",
+              "RelativeToolTip": "CuaHangTheThao\\Views\\SanPhams\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T16:44:27.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\NguoiDungs\\Index.cshtml",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\Views\\NguoiDungs\\Index.cshtml",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\NguoiDungs\\Index.cshtml",
+              "RelativeToolTip": "CuaHangTheThao\\Views\\NguoiDungs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T16:44:37.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\DanhMucs\\Index.cshtml",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\Views\\DanhMucs\\Index.cshtml",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\DanhMucs\\Index.cshtml",
+              "RelativeToolTip": "CuaHangTheThao\\Views\\DanhMucs\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T16:10:09.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\SanPhams\\Create.cshtml",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\Views\\SanPhams\\Create.cshtml",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\SanPhams\\Create.cshtml",
+              "RelativeToolTip": "CuaHangTheThao\\Views\\SanPhams\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwD8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T16:06:14.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\DanhMucs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\Views\\DanhMucs\\Edit.cshtml",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\DanhMucs\\Edit.cshtml",
+              "RelativeToolTip": "CuaHangTheThao\\Views\\DanhMucs\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T16:13:03.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\DanhMucs\\Create.cshtml",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\Views\\DanhMucs\\Create.cshtml",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\DanhMucs\\Create.cshtml",
+              "RelativeToolTip": "CuaHangTheThao\\Views\\DanhMucs\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwCIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T16:22:44.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\SanPhams\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\Views\\SanPhams\\Edit.cshtml",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\SanPhams\\Edit.cshtml",
+              "RelativeToolTip": "CuaHangTheThao\\Views\\SanPhams\\Edit.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAC0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T16:09:34.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\SanPhams\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\Views\\SanPhams\\Delete.cshtml",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\SanPhams\\Delete.cshtml",
+              "RelativeToolTip": "CuaHangTheThao\\Views\\SanPhams\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T16:06:49.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\SanPhams\\Details.cshtml",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\Views\\SanPhams\\Details.cshtml",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\SanPhams\\Details.cshtml",
+              "RelativeToolTip": "CuaHangTheThao\\Views\\SanPhams\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T15:54:48.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\Models\\SanPham.cs",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Models\\SanPham.cs",
+              "RelativeToolTip": "CuaHangTheThao\\Models\\SanPham.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:17:43.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DanhMuc.cs",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Models\\DanhMuc.cs",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\Models\\DanhMuc.cs",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Models\\DanhMuc.cs",
+              "RelativeToolTip": "CuaHangTheThao\\Models\\DanhMuc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:20:27.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241112112831_NguoiDung.cs",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Migrations\\20241112112831_NguoiDung.cs",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\Migrations\\20241112112831_NguoiDung.cs",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Migrations\\20241112112831_NguoiDung.cs",
+              "RelativeToolTip": "CuaHangTheThao\\Migrations\\20241112112831_NguoiDung.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:28:32.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Models\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\Models\\NguoiDung.cs",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Models\\NguoiDung.cs",
+              "RelativeToolTip": "CuaHangTheThao\\Models\\NguoiDung.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T05:56:50.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CuaHangTheThao\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T16:00:00.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\appsettings.json",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\appsettings.json",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\appsettings.json",
+              "RelativeToolTip": "CuaHangTheThao\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T15:54:41.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Program.cs",
+              "RelativeDocumentMoniker": "CuaHangTheThao\\Program.cs",
+              "ToolTip": "E:\\TH Net\\CuaHangTheThao\\CuaHangTheThao\\Program.cs",
+              "RelativeToolTip": "CuaHangTheThao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:54:39.444Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
